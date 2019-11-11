@@ -25,11 +25,9 @@
 	https://github.com/qingkong-template/Pure-simplified/archive/master.zip
 	
 ## 快速使用
-　　本地安装测试教程：
-https://www.aqingkong.com/wordpress-local-environment.html
-模板下载后直接上传到c:\wamp64\www\wordpress\wp-content\themes\下。
+直接在 wordpress 后台上传 zip 主题压缩包，执行安装并且启用主题即可，这种方式最为简单可行的也是很多人安装主题的。
 
-　　登录后台->外观->添加->上传主题->启动
+登录后台->外观->添加->上传主题->启动
 
 ## 交流 & 提问
 
